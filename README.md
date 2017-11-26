@@ -1,0 +1,2 @@
+# JavaScriptFunction2
+Vezba
